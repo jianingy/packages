@@ -1,0 +1,4 @@
+#!/bin/sh
+
+mkdir -p $DESTDIR/opt/multipkgadmin
+rsync -avP * $DESTDIR/opt/multipkgadmin

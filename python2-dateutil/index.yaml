@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-dateutil
+  version: ""
+  pypi: python-dateutil
+  summary: python dateutil
+  python: /usr/local/bin/python

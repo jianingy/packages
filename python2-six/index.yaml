@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-six
+  version: ""
+  pypi: six
+  summary: python six
+  python: /usr/local/bin/python

@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-mimeparse
+  version: ""
+  pypi: python-mimeparse
+  summary: python mimeparse
+  python: /usr/local/bin/python

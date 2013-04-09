@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-PyYAML
+  version: 3.10
+  pypi: PyYAML
+  summary: PyYAML
+  python: /usr/local/bin/python

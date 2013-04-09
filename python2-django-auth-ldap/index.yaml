@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-django-auth-ldap
+  version: ""
+  pypi: django-auth-ldap
+  summary: django auth-ldap
+  python: /usr/local/bin/python

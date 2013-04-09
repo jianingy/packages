@@ -1,0 +1,5 @@
+#!/bin/sh
+
+./configure --prefix=/opt/nginx --with-ipv6
+
+make install DESTDIR=$DESTDIR

@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-setuptools
+  version: '0.6c11'
+  pypi: setuptools
+  summary: python setuptools
+  python: /usr/local/bin/python

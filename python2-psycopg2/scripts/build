@@ -1,0 +1,4 @@
+#!/bin/sh
+export PATH=/usr/pgsql-9.2/bin:$PATH
+$PYTHON setup.py build
+$PYTHON setup.py install  --root $DESTDIR

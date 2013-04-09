@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-django-debug-toolbar
+  version: 0.9.4
+  pypi: django-debug-toolbar
+  summary: Django debug toolbar
+  python: /usr/local/bin/python

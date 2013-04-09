@@ -1,0 +1,9 @@
+---
+default:
+  name: python2-django-social-auth
+  version: ""
+  pypi: django-social-auth
+  summary: Django Social Auth
+  python: /usr/local/bin/python
+  requires:
+    - python2-openid

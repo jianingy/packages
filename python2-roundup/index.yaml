@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-roundup
+  version: 1.4.2
+  pypi: roundup
+  summary: roundup
+  python: /home/tops/bin/python

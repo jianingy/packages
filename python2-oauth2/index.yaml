@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-oauth2
+  version: ""
+  pypi: oauth2
+  summary: python oauth2
+  python: /usr/local/bin/python

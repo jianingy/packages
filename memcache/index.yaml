@@ -1,0 +1,6 @@
+---
+default:
+  name: php-memcache
+  pecl: memcache
+  version: 2.2.7
+  summary: memcache

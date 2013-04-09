@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-django-tables2
+  version: 0.13.0
+  pypi: django-tables2
+  summary: Django Tables2
+  python: /usr/local/bin/python

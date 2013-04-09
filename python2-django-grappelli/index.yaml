@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-django-grappelli
+  version: ""
+  pypi: django-grappelli
+  summary: Django Grappelli
+  python: /usr/local/bin/python

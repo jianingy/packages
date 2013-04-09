@@ -1,0 +1,7 @@
+---
+default:
+  name: almar
+  version: 0.1
+  git: git://github.com/jianingy/almar
+  summary: almar
+  python: /usr/local/bin/python

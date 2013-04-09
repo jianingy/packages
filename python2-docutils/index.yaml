@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-docutils
+  version: ""
+  pypi: docutils
+  summary: python2 docutils
+  python: /usr/local/bin/python

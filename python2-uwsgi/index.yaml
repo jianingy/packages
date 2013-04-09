@@ -1,0 +1,7 @@
+---
+default:
+  name: uwsgi
+  version: ""
+  pypi: uWSGI
+  summary: uwsgi
+  python: /usr/local/bin/python

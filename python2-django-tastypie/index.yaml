@@ -1,0 +1,11 @@
+---
+default:
+  name: python2-django-tastypie
+  version: ""
+  pypi: django-tastypie
+  summary: Django Tastypie
+  python: /usr/local/bin/python
+  requires:
+    - python2-dateutil
+    - python2-six
+    - python2-mimeparse

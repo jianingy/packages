@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-django-bootstrap-form
+  version: ""
+  pypi: django-bootstrap-form
+  summary: django bootstrap form
+  python: /usr/local/bin/python

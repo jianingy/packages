@@ -1,0 +1,5 @@
+#!/bin/sh
+
+
+make PYTHON=$PYTHON
+make install DESTDIR=$DESTDIR PYTHON=$PYTHON

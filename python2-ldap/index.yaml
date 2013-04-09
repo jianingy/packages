@@ -1,0 +1,11 @@
+---
+default:
+  name: python2-ldap
+  version: ""
+  pypi: python-ldap
+  summary: Python LDAP support
+  python: /usr/local/bin/python
+
+rpm:
+  buildrequires:
+    - openldap-devel

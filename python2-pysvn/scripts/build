@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd Source || exit 1
+$PYTHON setup.py configure || exit 1
+make || exit 1
+site=$($PYTHON -c 'import site; print site.getsitepackages()[0]')
+mkdir -p $DESTDIR/$site/pysvn
+cp pysvn/__init__.py $DESTDIR/$site/pysvn
+cp pysvn/_pysvn*.so $DESTDIR/$site/pysvn

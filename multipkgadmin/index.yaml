@@ -1,0 +1,7 @@
+---
+default:
+  name: multipkgadmin
+  version: 0.1
+  git: git://github.com/jianingy/multipkgadmin
+  summary: multipkgadmin
+  python: /usr/local/bin/python

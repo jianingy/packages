@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-openid
+  version: ""
+  pypi: python-openid
+  summary: Django OpenID
+  python: /usr/local/bin/python

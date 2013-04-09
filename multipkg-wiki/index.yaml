@@ -1,0 +1,7 @@
+---
+default:
+  name: multipkg-wiki
+  version: 1.9.7
+  #http: http://static.moinmo.in/files/moin-1.9.7.tar.gz
+  summary: multipkg wiki
+  python: /usr/local/bin/python

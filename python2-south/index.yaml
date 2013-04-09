@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-south
+  version: 0.7.6
+  pypi: South
+  summary: Django South
+  python: /usr/local/bin/python

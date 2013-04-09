@@ -1,0 +1,3 @@
+#!/bin/sh
+chown -R nobody: ./main
+exec /usr/local/bin/setuidgid nobody /usr/local/bin/multilog t I s200000 n5 ./main

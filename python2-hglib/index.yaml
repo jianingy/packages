@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-hglib
+  version: ""
+  pypi: python-hglib
+  summary: HGLib
+  python: /usr/local/bin/python

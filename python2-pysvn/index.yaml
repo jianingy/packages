@@ -1,0 +1,7 @@
+---
+default:
+  name: python2-pysvn
+  version: "1.7.6"
+  #http: http://pysvn.barrys-emacs.org/source_kits/pysvn-1.7.6.tar.gz
+  summary: pysvn
+  python: /usr/local/bin/python
