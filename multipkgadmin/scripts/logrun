@@ -1,3 +1,4 @@
 #!/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:$PATH
 chown -R nobody: ./main
-exec /usr/local/bin/setuidgid nobody /usr/local/bin/multilog t I s200000 n5 ./main
+exec setuidgid nobody multilog t I s200000 n5 ./main
